@@ -6,7 +6,7 @@ MoE的应用使得LLM能在scale up参数量的同时维持较少的计算成本
 
 GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding
 
-![image-20250814010116032](assets\image-20250814010116032.png)
+![image-20250814010116032](assets/image-20250814010116032.png)
 
 ## DP Attention
 

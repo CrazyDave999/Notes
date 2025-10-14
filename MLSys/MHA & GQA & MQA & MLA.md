@@ -1,7 +1,10 @@
+# MHA & GQA & MQA & MLA
 ![image-20250727004420324](assets/image-20250727004420324.png)
 
-# MHA
+## MHA
 
-# MLA
+## GQA & MQA
+
+## MLA
 
 ![image-20250727004501493](assets/image-20250727004501493.png)
